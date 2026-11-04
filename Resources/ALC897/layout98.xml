@@ -705,8 +705,8 @@
 			</dict>
 			<key>Outputs</key>
 			<array>
-				<string>LineOut</string>
 				<string>Headphone</string>
+				<string>LineOut</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>98</integer>
